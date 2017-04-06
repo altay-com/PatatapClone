@@ -3,6 +3,5 @@
 - Displays just circles in random colors for visuals.
 - Plays a limited set of 26 short sounds for the 26 alphabet keys.
 - Other keys just diplays circles without any sounds.
-
-Click on the link below -> start typing on your keyboard -> enjoy!
+- Click on the link below -> start typing on your keyboard -> enjoy!
 https://vigneshashokan.github.io/PatatapClone/
